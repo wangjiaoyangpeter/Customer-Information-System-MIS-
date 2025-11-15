@@ -1,0 +1,7 @@
+streamlit
+altair
+pathlib
+scipy
+datetime
+numpy
+pandas
